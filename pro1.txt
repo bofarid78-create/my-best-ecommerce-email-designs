@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>TimeZone Watches</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f4f4f4;font-family:Arial,sans-serif;">
+
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+
+        <!-- Main Container -->
+        <table role="presentation" width="600" style="margin:20px auto;background:#ffffff;border-radius:8px;overflow:hidden;">
+
+          <!-- Header Banner -->
+          <tr>
+            <td style="text-align:center;">
+              <img src="https://www.kddl.com/wp-content/themes/kddl/assets/images/slider/004.jpg" 
+                   alt="TimeZone Watches" 
+                   style="width:100%;max-width:600px;display:block;">
+            </td>
+          </tr>
+
+          <!-- Title -->
+          <tr>
+            <td style="background:#1abc9c;color:#fff;text-align:center;padding:20px;font-size:22px;font-weight:bold;">
+              ⌚ Featured Watches
+            </td>
+          </tr>
+
+          <!-- Intro -->
+          <tr>
+            <td style="padding:20px;text-align:center;color:#333;font-size:16px;">
+              Upgrade your style with our latest collection — limited time offers!
+            </td>
+          </tr>
+
+          <!-- Product 1 -->
+          <tr>
+            <td style="padding:15px;border-bottom:1px solid #eee;text-align:center;">
+              <img src="https://i.pinimg.com/1200x/46/45/97/464597178c5cac07e2be75158d0ed8e0.jpg" 
+                   alt="Classic Watch" 
+                   style="width:200px;border-radius:6px;display:block;margin:0 auto;">
+              <h3 style="margin:10px 0;color:#222;">Classic Leather Watch</h3>
+              <p style="margin:5px 0;color:#555;">Elegant design with premium leather strap</p>
+              <div style="font-size:18px;font-weight:bold;color:#e74c3c;margin:10px 0;">$79.99</div>
+              <a href="#" style="display:inline-block;background:#1abc9c;color:#fff;padding:12px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">Shop Now</a>
+            </td>
+          </tr>
+
+          <!-- Product 2 -->
+          <tr>
+            <td style="padding:15px;border-bottom:1px solid #eee;text-align:center;">
+              <img src="https://i.pinimg.com/1200x/ca/69/b8/ca69b8f7378dfb7c76a5fcc8421eee63.jpg" 
+                   alt="Sport Watch" 
+                   style="width:200px;border-radius:6px;display:block;margin:0 auto;">
+              <h3 style="margin:10px 0;color:#222;">Sport Chronograph Watch</h3>
+              <p style="margin:5px 0;color:#555;">Durable, water-resistant, perfect for sports</p>
+              <div style="font-size:18px;font-weight:bold;color:#e74c3c;margin:10px 0;">$99.99</div>
+              <a href="#" style="display:inline-block;background:#1abc9c;color:#fff;padding:12px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">Shop Now</a>
+            </td>
+          </tr>
+
+          <!-- Product 3 -->
+          <tr>
+            <td style="padding:15px;border-bottom:1px solid #eee;text-align:center;">
+              <img src="https://i.pinimg.com/1200x/0e/2c/3c/0e2c3ce714429da7aa2b7c855cded851.jpg" 
+                   alt="Smart Watch" 
+                   style="width:200px;border-radius:6px;display:block;margin:0 auto;">
+              <h3 style="margin:10px 0;color:#222;">Smart Fitness Watch</h3>
+              <p style="margin:5px 0;color:#555;">Track your health & notifications in style</p>
+              <div style="font-size:18px;font-weight:bold;color:#e74c3c;margin:10px 0;">$129.99</div>
+              <a href="#" style="display:inline-block;background:#1abc9c;color:#fff;padding:12px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">Shop Now</a>
+            </td>
+          </tr>
+
+          <!-- Final CTA -->
+          <tr>
+            <td style="padding:20px;text-align:center;">
+              <a href="#" style="display:inline-block;background:#e67e22;color:#fff;padding:14px 24px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:16px;">
+                CLAIM 20% OFF TODAY
+              </a>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="background:#34495e;padding:30px;text-align:center;color:#ffffff;font-size:14px;line-height:22px;">
+              
+              
+              
+              <p style="margin:10px 0;">
+                <a href="#" style="color:#ffffff;text-decoration:none;margin:0 10px;">Shop</a> | 
+                <a href="#" style="color:#ffffff;text-decoration:none;margin:0 10px;">About</a> | 
+                <a href="#" style="color:#ffffff;text-decoration:none;margin:0 10px;">Contact</a> | 
+                <a href="#" style="color:#ffffff;text-decoration:none;margin:0 10px;">FAQ</a>
+              </p>
+
+              <p style="margin:15px 0;">
+                <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="24" style="margin:0 6px;"></a>
+                <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="24" style="margin:0 6px;"></a>
+                <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="24" style="margin:0 6px;"></a>
+                <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" width="24" style="margin:0 6px;"></a>
+              </p>
+
+              <p style="margin:10px 0;color:#bdc3c7;font-size:12px;">
+                © 2025 TimeZone Watches. All rights reserved.<br>
+                <a href="#" style="color:#bdc3c7;text-decoration:underline;">Unsubscribe</a>
+              </p>
+
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
